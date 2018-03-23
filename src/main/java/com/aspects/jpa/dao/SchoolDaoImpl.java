@@ -1,4 +1,4 @@
-package com.aspect.jpa.dao;
+package com.aspects.jpa.dao;
 
 import java.util.List;
 
@@ -7,7 +7,7 @@ import javax.inject.Named;
 import javax.persistence.EntityManager;
 import javax.persistence.PersistenceContext;
 
-import com.aspect.jpa.entities.School;
+import com.aspects.jpa.entities.School;
 
 @JpaDao
 @Dependent

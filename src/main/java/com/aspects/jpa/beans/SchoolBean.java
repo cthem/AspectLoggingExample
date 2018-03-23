@@ -1,4 +1,4 @@
-package com.aspect.jpa.beans;
+package com.aspects.jpa.beans;
 
 import java.util.List;
 
@@ -7,9 +7,9 @@ import javax.ejb.Stateless;
 import javax.inject.Inject;
 import javax.inject.Named;
 
-import com.aspect.jpa.dao.JpaDao;
-import com.aspect.jpa.dao.SchoolDao;
-import com.aspect.jpa.entities.School;
+import com.aspects.jpa.dao.JpaDao;
+import com.aspects.jpa.dao.SchoolDao;
+import com.aspects.jpa.entities.School;
 
 
 @Stateless

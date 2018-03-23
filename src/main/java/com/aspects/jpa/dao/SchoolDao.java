@@ -1,8 +1,8 @@
-package com.aspect.jpa.dao;
+package com.aspects.jpa.dao;
 
 import java.util.List;
 
-import com.aspect.jpa.entities.School;
+import com.aspects.jpa.entities.School;
 
 public interface SchoolDao {
 	void createSchool(School school);

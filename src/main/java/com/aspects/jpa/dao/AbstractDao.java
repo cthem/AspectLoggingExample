@@ -1,4 +1,4 @@
-package com.aspect.jpa.dao;
+package com.aspects.jpa.dao;
 
 import java.util.List;
 

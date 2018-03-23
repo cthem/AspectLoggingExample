@@ -1,4 +1,4 @@
-package com.aspect.jpa.dao;
+package com.aspects.jpa.dao;
 
 import static java.lang.annotation.ElementType.FIELD;
 import static java.lang.annotation.ElementType.METHOD;
